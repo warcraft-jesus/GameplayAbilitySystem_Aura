@@ -7,9 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbf5e6f3-ea5c-4fff-8297-f0d4fc232255" name="Changes" comment="update">
+    <list default="true" id="bbf5e6f3-ea5c-4fff-8297-f0d4fc232255" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Input/IMC_AuraContext.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "RiderCppLiveTemplatesSettingsId",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -148,7 +150,9 @@
       <workItem from="1731793725244" duration="3000" />
       <workItem from="1731795601997" duration="2460000" />
       <workItem from="1731824968404" duration="20000" />
-      <workItem from="1731829932651" duration="4275000" />
+      <workItem from="1731829932651" duration="4431000" />
+      <workItem from="1731849328706" duration="430000" />
+      <workItem from="1731850306083" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -206,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731844498648</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <option name="closed" value="true" />
+      <created>1731846007429</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731846007429</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
